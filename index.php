@@ -31,28 +31,17 @@
 
       <hr class="my-5">
 
-      <!--Section: Cards-->
-      <section class="text-center">
-
-        <!--Grid row-->
+      <!-- <section class="text-center">
         <div class="row mb-4 wow fadeIn">
-
-          <!--Grid column-->
           <div class="col-lg-4 col-md-12 mb-4">
-
-            <!--Card-->
             <div class="card">
-
-              <!--Card image-->
               <div class="view overlay">
                 <div class="embed-responsive embed-responsive-16by9 rounded-top">
                   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/cXTThxoywNQ" allowfullscreen></iframe>
                 </div>
               </div>
 
-              <!--Card content-->
               <div class="card-body">
-                <!--Title-->
                 <h4 class="card-title">MDB Quick Start</h4>
                 <p class="card-text">Get started with MDBootstrap, the world's most popular Material Design framework
                   for building
@@ -225,7 +214,183 @@
             </li>
           </ul>
         </nav>
-      </section>
+      </section> -->
+      <div class="container">
+
+      <h3 class="my-5 h3 text-center">Our pricing plans</h3>
+
+      <!--Grid row-->
+      <div class="row d-flex justify-content-center">
+
+        <!--Grid column-->
+        <div class="col-md-8 text-center">
+
+          <p class="mb-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo qui laboriosam nihil
+            reiciendis fugit eius nostrum
+            ipsum odio, voluptate debitis laborum perspiciatis voluptatibus? Culpa expedita rem totam eos fugit atque!</p>
+
+        </div>
+        <!--Grid column-->
+
+      </div>
+      <!--Grid row-->
+
+      <!--Grid row-->
+      <div class="row text-center wow fadeIn">
+
+        <!--Grid column-->
+        <div class="col-lg-4 col-md-12 mb-4">
+
+          <!--Card-->
+          <div class="card">
+
+            <!-- Card header -->
+            <div class="card-header">
+              <h4>
+                <strong>Free</strong>
+              </h4>
+            </div>
+
+            <!--Card content-->
+            <div class="card-body">
+
+              <h3 class="card-title pricing-card-title mb-4">$0
+                <small class="text-muted">/ mo</small>
+              </h3>
+
+              <ol class="list-unstyled mb-4">
+                <li>10 users included
+                  <i class="fas fa-check green-text ml-1"></i>
+                </li>
+                <hr>
+                <li>2 GB of storage
+                  <i class="fas fa-check green-text ml-1"></i>
+                </li>
+                <hr>
+                <li>Email support
+                  <i class="fas fa-check green-text ml-1"></i>
+                </li>
+                <hr>
+                <li>Help center access
+                  <i class="fas fa-check green-text ml-1"></i>
+                </li>
+              </ol>
+
+              <button type="button" class="btn btn-lg btn-block btn-outline-primary waves-effect">Sign up for free</button>
+
+            </div>
+
+          </div>
+          <!--/.Card-->
+
+        </div>
+        <!--Grid column-->
+
+        <!--Grid column-->
+        <div class="col-lg-4 col-md-6 mb-4">
+
+          <!--Card-->
+          <div class="card">
+
+            <!-- Card header -->
+            <div class="card-header">
+              <h4>
+                <strong>Pro</strong>
+              </h4>
+            </div>
+
+            <!--Card content-->
+            <div class="card-body">
+
+              <h3 class="card-title pricing-card-title mb-4">$15
+                <small class="text-muted">/ mo</small>
+              </h3>
+
+              <ol class="list-unstyled mb-4">
+                <li>20 users included
+                  <i class="fas fa-check green-text ml-1"></i>
+                </li>
+                <hr>
+                <li>10 GB of storage
+                  <i class="fas fa-check green-text ml-1"></i>
+                </li>
+                <hr>
+                <li>Priority email support
+                  <i class="fas fa-check green-text ml-1"></i>
+                </li>
+                <hr>
+                <li>Help center access
+                  <i class="fas fa-check green-text ml-1"></i>
+                </li>
+              </ol>
+
+              <button type="button" class="btn btn-lg btn-block btn-primary">Get started</button>
+
+            </div>
+
+          </div>
+          <!--/.Card-->
+
+        </div>
+        <!--Grid column-->
+
+        <!--Grid column-->
+        <div class="col-lg-4 col-md-6 mb-4">
+
+          <!--Card-->
+          <div class="card">
+
+            <!-- Card header -->
+            <div class="card-header">
+              <h4>
+                <strong>Matricula</strong>
+              </h4>
+            </div>
+
+            <!--Card content-->
+            <div class="card-body">
+
+              <h3 class="card-title pricing-card-title mb-4">R$40,00
+                <small class="text-muted">/ mês</small>
+              </h3>
+
+              <ol class="list-unstyled mb-4">
+                <li>30 pintos
+                  <i class="fas fa-check green-text ml-1"></i>
+                </li>
+                <hr>
+                <li>15 GB de piroca
+                  <i class="fas fa-check green-text ml-1"></i>
+                </li>
+                <hr>
+                <li>E penis
+                  <i class="fas fa-check green-text ml-1"></i>
+                </li>
+                <hr>
+                <li>3 P's do sucesso
+                  <i class="fas fa-check green-text ml-1"></i>
+                </li>
+              </ol>
+
+            <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                <input type="hidden" name="cmd" value="_s-xclick">
+                <input type="hidden" name="hosted_button_id" value="LLYUMPKBVRN3U">
+                <button type="submit" class="btn btn-lg btn-block btn-primary waves-effect">Comprar</button>
+            </form>
+            
+
+            </div>
+
+          </div>
+          <!--/.Card-->
+
+        </div>
+        <!--Grid column-->
+
+      </div>
+      <!--Grid row-->
+
+    </div>
     </div>
   </main>
 
